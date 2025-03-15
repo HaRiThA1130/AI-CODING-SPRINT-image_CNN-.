@@ -1,2 +1,2 @@
-# AI-CODING-SPRINT-image_CNN-.
-This is my euphoria event work
+# AI-CODING-SPRINT-image_CNN
+Euphoria
